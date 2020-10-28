@@ -242,7 +242,7 @@ modell
 
 table (predict(modell$finalModel,x)$class,y)
 
-1###
+###
 
 plot(Sales~Price)
 plot(Sales~CompPrice)
