@@ -1,8 +1,11 @@
+# Kandityo: Ensemble learning -meethods
+# Juha Kavka
+
 library(tree)
 library(ISLR)
 
 
-###
+### load data
 summary(Carseats)
 attach(Carseats)
 
