@@ -104,7 +104,7 @@ m[4]=m4
 
 barplot(m,main = "misclassification rates for tree models",ylab="misclassification rate",col='grey',xlab = "1. pruned tree         2.bagged tree     3. random forest     4. boosted tree ")
 
-#### Super leanrner
+#### Super learner
 
 # Extract our outcome variable from the dataframe.
 outcome = Carseats$H
