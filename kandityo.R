@@ -212,7 +212,7 @@ prclass<-ifelse(pred$pred>0.45,1,0)
 table(prclass,Y_holdout)
 (9+10)/200 # prediction error rate for test data
 
-## Bayes mallit
+## Bayes models
 
 # naive bayes classifier
 
